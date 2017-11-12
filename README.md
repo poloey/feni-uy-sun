@@ -11,5 +11,5 @@ Bring Pen and paper everyday. Keep note everyday class.
 ### Class Lessons
 
 --------
-* [class 01, Nov 09, 2017 Thus](https://github.com/poloey/01_feni_uy_sun_nov_09)
+* [class 01, Nov 09, 2017 Thus](https://github.com/poloey/01_usun_nov_09)
 
