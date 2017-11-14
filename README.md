@@ -15,3 +15,5 @@ Bring Pen and paper everyday. Keep note everyday class.
 
 * [class 02, Nov 12, 2017 Sun](https://github.com/poloey/02_usun_nov_12)
 
+* [class 03, Nov 14, 2017 Tue](https://github.com/poloey/03_usun_nov_14)
+
