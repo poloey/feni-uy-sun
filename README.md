@@ -1,7 +1,7 @@
 # [Feni Batch All Class List](https://poloey.github.io/feni-uy-sun)
 
 **Batch Code:** NOT YET PUBLISHED
-**Facebook group:** [https://www.facebook.com](https://www.facebook.com/)
+**Facebook group:** [https://www.facebook.com](https://www.facebook.com/groups/1656540661051567/)
 
 
 # Requirements
